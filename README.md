@@ -1,5 +1,5 @@
 # sempak
-$ pkg install git python2
+$ pkg install git python python2
 
 $ pip2 install --upgrade pip
 
@@ -10,3 +10,5 @@ $ cd sempak
 $ pip2 install -r sandal.txt
 
 $ python2 sempak.py
+
+
