@@ -7,7 +7,7 @@ $ git clone https://github.com/YellowRicePunk/sempak
 
 $ cd sempak
 
-$ pip2 install -r sandal.txt
+$ pip2 install -r requirements.txt
 
 $ python2 sempak.py
 
