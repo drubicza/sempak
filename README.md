@@ -9,4 +9,4 @@ $ cd sempak
 
 $ pip2 install -r sandal.txt
 
-$ python2 sandal.py
+$ python2 sempak.py
